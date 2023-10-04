@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="026137d6-c268-4099-9aa7-8cb8ff5736d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/emailTemplateNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="026137d6-c268-4099-9aa7-8cb8ff5736d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696404140294</updated>
-      <workItem from="1696404141301" duration="6207000" />
+      <workItem from="1696404141301" duration="6309000" />
     </task>
     <servers />
   </component>
