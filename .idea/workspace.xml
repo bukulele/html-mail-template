@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="026137d6-c268-4099-9aa7-8cb8ff5736d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emailTemplateBeigeImageShort-ftp.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailTemplateBeigeImageShort-ftp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emailTemplateBeigeImageShort.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailTemplateBeigeImageShort.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dickies_pattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dickies_pattern.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emailTemplateDickiesImageShort-ftp.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailTemplateDickiesImageShort-ftp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emailTemplateDickiesImageShort.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailTemplateDickiesImageShort.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emailTemplateGradientImageShort-ftp.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailTemplateGradientImageShort-ftp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emailTemplateGradientImageShort.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailTemplateGradientImageShort.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,8 @@
       <workItem from="1698675496553" duration="810000" />
       <workItem from="1698677619513" duration="595000" />
       <workItem from="1698703691226" duration="361000" />
-      <workItem from="1698734309535" duration="6284000" />
+      <workItem from="1698734309535" duration="7759000" />
+      <workItem from="1698767268372" duration="655000" />
     </task>
     <servers />
   </component>
